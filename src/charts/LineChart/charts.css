@@ -1,0 +1,188 @@
+.rectangle-65 {
+  height: 60px;
+  width: 160px;
+  background: #434343;
+  box-shadow: inset 0 1px 7px 0 #000000, 3px 3px 5px 0 rgba(72, 85, 99, 0.58);
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 4px;
+  position: relative;
+  top: -69px;
+  font-family: 'Roboto';
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 7px 5px 0 5px;
+  border-color: #434343 transparent transparent transparent;
+  position: relative;
+  top: -70px;
+  left: 14px;
+}
+.oval {
+  height: 100px;
+  width: 100px;
+  background-color: #485563;
+}
+
+.path-71-copy {
+  height: 6.5px;
+  width: 10.4px;
+  transform: scaleY(-1);
+  background-color: #50e3c2;
+}
+
+circle.recharts-dot {
+  fill: #485563;
+}
+.fertilizers {
+  height: 29px;
+  width: 97px;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: -0.58px;
+  line-height: 29px;
+  position: relative;
+  left: 32px;
+  top: 16px;
+  font-family: 'Roboto';
+}
+
+tspan {
+  margin-top: 10px;
+  color: #66d7c2;
+  font-size: 12px;
+  letter-spacing: -0.39px;
+  line-height: 14px;
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.rectangle {
+  width: 37px;
+  opacity: 0.59;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
+}
+.salesReport {
+  height: 14px;
+  width: 23px;
+  color: #ffffff;
+  fontsize: 12;
+  fontweight: 600;
+  lineheight: 14;
+  fontfamily: 'Poppins';
+  textalign: 'center';
+}
+.salesLegend {
+  width: 18px;
+  border: solid 1px #ffffff;
+  position: relative;
+  top: 15px;
+  left: 4px;
+}
+
+.budgetLegend {
+  width: 18px;
+  border: dashed 1px #ffffff;
+  position: relative;
+  top: 15px;
+  left: 4px;
+}
+.rectangle-65 {
+  height: 60px;
+  width: 160px;
+  background: #434343;
+  box-shadow: inset 0 1px 7px 0 #000000, 3px 3px 5px 0 rgba(72, 85, 99, 0.58);
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 4px;
+  position: relative;
+  top: -69px;
+  font-family: 'Roboto';
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 7px 5px 0 5px;
+  border-color: #434343 transparent transparent transparent;
+  position: relative;
+  top: -70px;
+  left: 14px;
+}
+.oval {
+  height: 100px;
+  width: 100px;
+  background-color: #485563;
+}
+
+.path-71-copy {
+  height: 6.5px;
+  width: 10.4px;
+  transform: scaleY(-1);
+  background-color: #50e3c2;
+}
+
+circle.recharts-dot {
+  fill: #485563;
+}
+.fertilizers {
+  height: 29px;
+  width: 97px;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: -0.58px;
+  line-height: 29px;
+  position: relative;
+  left: 32px;
+  top: 16px;
+  font-family: 'Roboto';
+}
+
+tspan {
+  margin-top: 10px;
+  color: #66d7c2;
+  font-size: 12px;
+  letter-spacing: -0.39px;
+  line-height: 14px;
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.rectangle {
+  width: 37px;
+  opacity: 0.59;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
+}
+.salesReport {
+  height: 14px;
+  width: 23px;
+  color: #ffffff;
+  fontsize: 12;
+  fontweight: 600;
+  lineheight: 14;
+  fontfamily: 'Poppins';
+  textalign: 'center';
+}
+.salesLegend {
+  width: 18px;
+  border: solid 1px #ffffff;
+  position: relative;
+  top: 15px;
+  left: 4px;
+}
+
+.budgetLegend {
+  width: 18px;
+  border: dashed 1px #ffffff;
+  position: relative;
+  top: 15px;
+  left: 4px;
+}
