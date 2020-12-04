@@ -1,10 +1,10 @@
 {
-  "name": "styled-charts",
+  "name": "react-charts",
   "version": "1.0.1",
   "description": "A React Charts library",
   "author": "LaghzaliTaha",
   "license": "MIT",
-  "repository": "LaghzaliTaha/styled-charts",
+  "repository": "LaghzaliTaha/react-charts",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
