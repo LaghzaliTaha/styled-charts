@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-charts
+npm install --save styled-charts
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save react-charts
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-charts'
-import 'react-charts/dist/index.css'
+import AwesomeLineChart from 'react-charts'
+import 'styled-charts/dist/index.css'
 
 class Example extends Component {
   render() {

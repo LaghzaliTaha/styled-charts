@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-charts'
-import 'react-charts/dist/index.css'
+import { ExampleComponent } from 'styled-charts'
+import 'styled-charts/dist/index.css'
 
 const App = () => {
   return <ExampleComponent text='Create React Library Example 😄' />
