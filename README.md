@@ -20,7 +20,7 @@ import 'styled-charts/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <AwesomeLineChart />
   }
 }
 ```
